@@ -1,0 +1,62 @@
+version: "3.1"
+
+nlu:
+- intent: other
+  examples: |
+    - 為什麼教育方案資格審查那麼慢
+    - 有什麼軟體可以控制鍵盤燈光
+    - 該去哪邊下載驅動程式
+    - 都不是
+    - 筆電
+    - 轉接客服專員
+    - 有賣桌上型電腦的記憶體嗎
+    - 請推薦我無線的電競鍵盤
+    - 請推薦我便宜的電競筆電
+    - 網路設定無法連線
+    - 我想了解免運優惠
+    - 想了解學生優惠
+    - 主機板驅動
+    - 主機板怎麼維修
+    - 我想要比較能顧眼睛的大螢幕
+    - 華碩螢幕超出範圍
+
+- intent: search_series
+  examples: |
+    - 想了解什麼是[AI筆電](series)和[塔式伺服器](series)
+    - [Compact Ai筆電](series)
+    - 請問什麼是[AI PC](series)和[NUC Boards](series)?
+    - [ASUS Gimbal AI筆電](series)
+    - 比較不同[華碩筆電](series)系列的AI Accelerator特色
+    - [asus](series)不同系列的嵌入式電腦及邊緣AI系統的差別及特色
+    - [Rog](series) 的 [Gaming](series) 特色是什麼
+    - [ProArt Accessories AI筆電](series)
+    - [asus](series)不同系列的AiMesh WiFi Routers and Systems的差別及特色
+    - 有看到[護眼螢幕](series)和[ASUS Gaming Routers](series)，是怎樣護眼？
+    - [USB Headsets AI筆電](series)
+    - [ASUS Adapters](series) and [Chargers](series) 是什麼?
+    - [BR Series](series) 是什麼 [AI PC](series)?
+    - [Rog](series) 的[耳機配件](series)特色是什麼
+    - [ExpertBook Compact](series)系列
+    - [ExpertBook](series)系列的Computer-On-Modules有哪些特色？
+    - 我想了解配有3.5mm耳機插孔的[AI筆電](series)
+    - 我想了解[LP5-110028](series) [AI筆電](series)
+
+- intent: search_product
+  examples: |
+    - 請問2021 [ROG Zephyrus G14 GA401QE-HZ085T](product)和[FA506NC](product)和[FA507NC](product)和[FX607JV](product)有什麼差異？
+    - 2021 [ROG Strix G15 G513IC-BS71-CB](product)及[zenbook 14](product) [ux3405](product)及[vivobook s14 m5406](product)哪個更適合跑matlab,origin,模擬
+    - 請問 [ROG Strix SCAR 16 (2024)](product) 跟 [ROG Strix SCAR 18 (2024)](product) 以及 [ROG Strix Scar 17 SE (2022) G733CW-LL003W](product) 的差異?
+    - [ROG Zephyrus G16 (2024)](product) [ZEPHYRUS-G16-GU605MY-QR3W](product)的m.2插槽有跟sata共用頻寬嗎？
+    - [ROG Zephyrus M15 GU502GV-AZ099T](product)這款主機板有藍芽嗎
+    - [pro art](series), [zenbook](series), [vivobook](series), [ROG Phone 6 BATMAN Edition](product) 的差別在哪裡
+    - 請問 [ROG Strix SCAR 16 (2024)](product) 跟 [ROG Strix G15 (2022) G513RC-HN069W](product) 的差異?
+    - [asus vivobook pro 16 oled (k6602)](product) and [ROG Huracan G21 G21CX-AU005T](product)
+    - https://www.asus.com/tw/laptops/for-work/expertbook/expertbook-b1-b1508c-12th-gen-intel/ 這台和 [ROG Strix SCAR 17 G732LXS-HG074T](product) 無法比較嗎?
+    - [ROG Strix G15 (2022) STRIX-G15-G513RW-HQ173W](product) 是VA嗎？
+    - 請問 [ROG Zephyrus S15 GX502LXS-XS79](product) 跟 [AX1800HP](product) 跟 [AX1800S](product) 的差異?
+    - 我想知道[ROG Strix SCAR 17 G732L-WEV054T](product)的DC接頭的尺寸
+    - 請問 [ROG Strix XG259QN](product) 和 [AI 筆電](series) [Vivobook S 15 (S5507)](product) 的規格?
+    - [B760]要搭配[ROG Strix G15 Advantage Edition G513QY-HF002W](product)的CPU14代14700?
+    - 請問 [ROG G703 G703GX-EV130T](product) 的規格?
+    - [ROG-STRIX-RTX3070-O8G-V2-GAMING](product) 的特色是什麼
+

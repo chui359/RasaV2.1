@@ -1,0 +1,19 @@
+version: "3.1"
+
+rules:
+
+- rule: Say this is other
+  steps:
+  - intent: other
+  - action: utter_other
+
+- rule: Say this is search_product
+  steps:
+  - intent: search_product
+  - action: utter_product
+
+- rule: Say this is search_series
+  steps:
+  - intent: search_series
+  - action: utter_series
+
