@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'aocc-trainmodel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_33FADC444FDC4963B520846BC4A6C32F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6F885EB2B6A403C91081723CA33F3CD }}
