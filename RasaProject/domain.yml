@@ -2,18 +2,18 @@ version: "3.1"
 
 intents:
   - other
-  - search_series
-  - search_product
+  - series
+  - product
 
 responses:
   utter_other:
-  - text: "This is other"
+  - text: "other"
 
   utter_series:
-  - text: "This is series"
+  - text: "series"
 
   utter_product:
-  - text: "This is product"
+  - text: "product"
 
 
 

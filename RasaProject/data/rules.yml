@@ -7,13 +7,12 @@ rules:
   - intent: other
   - action: utter_other
 
-- rule: Say this is search_product
+- rule: Say this is product
   steps:
-  - intent: search_product
+  - intent: product
   - action: utter_product
 
-- rule: Say this is search_series
+- rule: Say this is series
   steps:
-  - intent: search_series
+  - intent: series
   - action: utter_series
-
