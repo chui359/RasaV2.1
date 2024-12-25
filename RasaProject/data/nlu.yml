@@ -63,6 +63,13 @@ nlu:
     - Zen [AiO](series) 是 all-in-one-pcs?
     - [CSM](series)[主機板](product_line)是什麼
     - 如果買給年長者，推薦[Zenfone](series)系列嗎
+    - [Zenbook](series) 系列有什麼特點？
+    - [Vivobook](series) 系列的優點是什麼？
+    - [Zenbook](series) 和 [Vivobook](series) 哪個更好？
+    - 请介绍一下 [Zenbook](series) 和 [Vivobook](series) 系列
+    - [Zenbook](series) 和 [Vivobook](series) 的差異是什么？
+    - [Zenbook](series) 和 [Vivobook](series) 有什麼不同？
+    - [Zenbook](series) 和 [Vivobook](series) 差在哪？
 
 - intent: product
   examples: |
@@ -87,3 +94,10 @@ nlu:
     - ASUS [TUF GAMING](series) [Z790-PRO](product) WIFI 充電
     - ASUS [TUF Gaming](series) [F15](product) (2021) [FX506HM](product)和[PRIME H610M-A](product) WIFI D4-CSM支援PCIE4.0嗎
     - 我要比較[flow](series) [z13](product),asus [zenbook](series) [duo](product),[西風](series)筆電和[TUF GAMING](series) [H770-PRO](product) WIFI
+    - [Zenbook 8](product) 有什麼特點？
+    - [Vivobook 7](product) 的優點是什麼？
+    - [Zenbook 8](product) 和 [Vivobook 7](product) 哪個更好？
+    - 请介绍一下 [Zenbook 8](product) 和 [Vivobook 7](product)
+    - [Zenbook 8](product) 和 [Vivobook 7](product) 的差異是什麼？
+    - [Zenbook 8](product) 和 [Vivobook 7](product) 有什麼不同？
+    - [Zenbook 8](product) 和 [Vivobook 7](product) 差在哪？
