@@ -25,24 +25,24 @@ nlu:
 
 - intent: series
   examples: |
-    - 想了解什麼是[AI](series)[筆電](product_line)和[塔式伺服器](product_line)
-    - Compact [AI](series)[筆電](product_line)
-    - 請問什麼是[AI](series) [PC](product_line)和[NUC Boards](series)?
-    - ASUS [Gimbal](series) [AI](series)[筆電](product_line)
-    - 比較不同華碩[筆電](product_line)系列的AI Accelerator特色
+    - 想了解什麼是[AI](series) 筆電和塔式伺服器
+    - Compact [AI](series)筆電
+    - 請問什麼是[AI](series) PC和[NUC Boards](series)?
+    - ASUS [Gimbal](series) [AI](series) 筆電
+    - 比較不同華碩筆電系列的AI Accelerator特色
     - [asus](series)不同系列的嵌入式電腦及邊緣AI系統的差別及特色
     - [Rog](series) 的 [Gaming](series) 特色是什麼
-    - [ProArt](series) Accessories [AI](series)[筆電](product_line)
+    - [ProArt](series) Accessories [AI](series) 筆電
     - [asus](series)不同系列的AiMesh WiFi Routers and Systems的差別及特色
     - 有看到[護眼螢幕](series)和[ASUS Gaming Routers](series)，是怎樣護眼？
-    - [USB Headsets](product_line) [AI](series)[筆電](product_line)
+    - USB Headsets [AI](series) 筆電
     - [ASUS Adapters](series) and [Chargers](series) 是什麼?
     - [BR Series](series) 是什麼 [AI PC](series)?
-    - [Rog](series) 的[耳機](product_line)[配件](product_line)特色是什麼
+    - [Rog](series) 的耳機配件特色是什麼
     - [ExpertBook Compact](series)系列
     - [ExpertBook](series)系列的Computer-On-Modules有哪些特色？
-    - 我想了解配有3.5mm耳機插孔的[AI](series)[筆電](product_line)
-    - 我想了解[LP5-110028](series) [AI](series)[筆電](product_line)
+    - 我想了解配有3.5mm耳機插孔的[AI](series) 筆電
+    - 我想了解[LP5-110028](series) [AI](series)筆電
     - [Chromebook](series) 和 [ExpertBook](series) 比較
     - [Chromebook](series) 和 [ExpertBook](series) 有什麼不同
     - [Chromebook](series) 和 [ROG](series) [Zephyrus](series) 比較
@@ -54,14 +54,13 @@ nlu:
     - 可以跟我介紹一下你們[護眼螢幕](series)系列嗎
     - 可以跟我介紹一下 [ZenWiFi](series) 系統
     - [電競掌機](series)是哪個系列
-    - 我常玩 3A 遊戲，請問 [ROG](series) 哪個系列[筆電](product_line)比較適合我?
     - 想知道[strix](series)跟[zephyrus](series)的差別
     - 我想查詢 [tuf](series) 的特色
-    - [商用](series)[筆電](product_line)系列
-    - [電競](series)[鍵盤](product_line)系列
+    - [商用](series) 筆電系列
+    - 電競鍵盤系列
     - 外接式藍光光碟機系列支援什麼功能?
     - Zen [AiO](series) 是 all-in-one-pcs?
-    - [CSM](series)[主機板](product_line)是什麼
+    - [CSM](series) 主機板是什麼
     - 如果買給年長者，推薦[Zenfone](series)系列嗎
     - [Zenbook](series) 系列有什麼特點？
     - [Vivobook](series) 系列的優點是什麼？
@@ -70,6 +69,7 @@ nlu:
     - [Zenbook](series) 和 [Vivobook](series) 的差異是什么？
     - [Zenbook](series) 和 [Vivobook](series) 有什麼不同？
     - [Zenbook](series) 和 [Vivobook](series) 差在哪？
+    - [chromebook filp CX5](product) 和 [vivobook s 15](product) 的規格
 
 - intent: product
   examples: |
@@ -101,3 +101,6 @@ nlu:
     - [Zenbook 8](product) 和 [Vivobook 7](product) 的差異是什麼？
     - [Zenbook 8](product) 和 [Vivobook 7](product) 有什麼不同？
     - [Zenbook 8](product) 和 [Vivobook 7](product) 差在哪？
+    - [ROG Ally X](product) 的規格
+    - [chromebook filp](series) 和 [vivobook s 15](product) 的規格
+    - [zenfone](series) 和 [rog phone 8] 的比較
