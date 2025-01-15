@@ -70,6 +70,7 @@ nlu:
     - [Zenbook](series) 和 [Vivobook](series) 有什麼不同？
     - [Zenbook](series) 和 [Vivobook](series) 差在哪？
     - [chromebook filp CX5](product) 和 [vivobook s 15](product) 的規格
+    - [ProArt](series) 和 [Rog](series) 有什麼差異？
 
 - intent: product
   examples: |
@@ -103,4 +104,4 @@ nlu:
     - [Zenbook 8](product) 和 [Vivobook 7](product) 差在哪？
     - [ROG Ally X](product) 的規格
     - [chromebook filp](series) 和 [vivobook s 15](product) 的規格
-    - [zenfone](series) 和 [rog phone 8] 的比較
+    - [ProArt P16](product) 和[ProArt PZ13](product) 有什麼差異？
