@@ -72,6 +72,7 @@ nlu:
     - [chromebook filp CX5](product) 和 [vivobook s 15](product) 的規格
     - [ProArt](series) 和 [Rog](series) 有什麼差異？
     - [Chromebook flip](series)介紹
+    - [Zenbook](series) specs
 
 - intent: product
   examples: |
@@ -107,3 +108,4 @@ nlu:
     - [chromebook filp](series) 和 [vivobook s 15](product) 的規格
     - [ProArt P16](product) 和[ProArt PZ13](product) 有什麼差異？
     - [Chromebook flip cx5](product)介紹
+    - [Zenbook A14](product) specs
