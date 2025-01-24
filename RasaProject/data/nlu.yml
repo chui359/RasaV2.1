@@ -73,6 +73,9 @@ nlu:
     - [ProArt](series) 和 [Rog](series) 有什麼差異？
     - [Chromebook flip](series)介紹
     - [Zenbook](series) specs
+    - Does the [motherboard](series) have TPM?
+    - what is the maximum resolution and refresh rate i can get from usb c connection
+    - - How big is [TUF GAMING](series)
 
 - intent: product
   examples: |
@@ -109,3 +112,6 @@ nlu:
     - [ProArt P16](product) 和[ProArt PZ13](product) 有什麼差異？
     - [Chromebook flip cx5](product)介紹
     - [Zenbook A14](product) specs
+    - Does the Pro [B550M-C/CSM](product) [motherboard](series) have TPM?
+    - what is the maximum resolution and refresh rate i can get from usb c connection on [XG27ACDNG](product)
+    - How big is [TUF GAMING B650-E WIFI](product)
