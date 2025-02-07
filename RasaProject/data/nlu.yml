@@ -75,7 +75,9 @@ nlu:
     - [Zenbook](series) specs
     - Does the [motherboard](series) have TPM?
     - what is the maximum resolution and refresh rate i can get from usb c connection
-    - - How big is [TUF GAMING](series)
+    - How big is [TUF GAMING](series)
+    - what are the GPU supported motherboard
+
 
 - intent: product
   examples: |
@@ -115,3 +117,4 @@ nlu:
     - Does the Pro [B550M-C/CSM](product) [motherboard](series) have TPM?
     - what is the maximum resolution and refresh rate i can get from usb c connection on [XG27ACDNG](product)
     - How big is [TUF GAMING B650-E WIFI](product)
+    - what are the GPU supported by ASUS [Z890](product) motherboard
