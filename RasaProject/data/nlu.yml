@@ -77,6 +77,7 @@ nlu:
     - what is the maximum resolution and refresh rate i can get from usb c connection
     - How big is [TUF GAMING](series)
     - what are the GPU supported motherboard
+    - [Zenfone](series) 有哪些AI功能
 
 
 - intent: product
@@ -118,3 +119,4 @@ nlu:
     - what is the maximum resolution and refresh rate i can get from usb c connection on [XG27ACDNG](product)
     - How big is [TUF GAMING B650-E WIFI](product)
     - what are the GPU supported by ASUS [Z890](product) motherboard
+    - [Zenfone 12 Ultra](product) 有哪些AI功能
