@@ -78,6 +78,7 @@ nlu:
     - How big is [TUF GAMING](series)
     - what are the GPU supported motherboard
     - [Zenfone](series) 有哪些AI功能
+    - What are the specifications of the ROG?
 
 
 - intent: product
@@ -120,3 +121,12 @@ nlu:
     - How big is [TUF GAMING B650-E WIFI](product)
     - what are the GPU supported by ASUS [Z890](product) motherboard
     - [Zenfone 12 Ultra](product) 有哪些AI功能
+    - What are the specifications of the ROG [GL552VW](product)?
+    - What is the maximum RAM I can install in the ASUS [X543](product)
+    - Can the [ROG CROSSHAIR X870E HERO](product) connect to the Internet without Ethernet?
+    - I have the laptop [FX506LH](product) I want to know the adapter requirement
+    - Does the [TUF GAMING B460M-PLUS](product) have max 2933MHz memory support?
+    - What product series is the ASUS [H110T](product)?
+    - Does the ASUS [PE8000G](product) support MXM modules and include Jetson?
+    - [ROG Gladius III](product) Wireless is not charging
+    - [ASUS ExpertBook P5](product)
