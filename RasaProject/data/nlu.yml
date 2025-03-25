@@ -72,13 +72,13 @@ nlu:
     - [chromebook filp](series) 和 [vivobook s](series) 的系列
     - [ProArt](series) 和 [Rog](series) 有什麼差異？
     - [Chromebook flip](series)介紹
-    - [Zenbook](series) specs
+    - [Zenbook](series)
     - Does the [motherboard](series) have TPM?
     - what is the maximum resolution and refresh rate i can get from usb c connection
     - How big is [TUF GAMING](series)
     - what are the GPU supported motherboard
     - [Zenfone](series) 有哪些AI功能
-    - What are the specifications of the ROG?
+    - What are the of the ROG?
 
 
 - intent: product
@@ -130,3 +130,5 @@ nlu:
     - Does the ASUS [PE8000G](product) support MXM modules and include Jetson?
     - [ROG Gladius III](product) Wireless is not charging
     - [ASUS ExpertBook P5](product)
+    - What are the specifications of the ROG Ally X?
+    - What are the specs of the R680EA-IM-Z?
